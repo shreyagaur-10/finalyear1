@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "maybelline-fit-me-110",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "110",
+    "shade_name": "Porcelain",
+    "hex_color": "#F5D6C3",
+    "undertone": [
+      "warm",
+      "neutral"
+    ],
+    "luminance_range": [
+      200,
+      230
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_01.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-115",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "115",
+    "shade_name": "Ivory",
+    "hex_color": "#EDCDB5",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      190,
+      215
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_02.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-120",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "120",
+    "shade_name": "Classic Ivory",
+    "hex_color": "#E8C5A8",
+    "undertone": [
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      180,
+      205
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_03.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-128",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "128",
+    "shade_name": "Warm Nude",
+    "hex_color": "#DEB896",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      165,
+      190
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_04.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-220",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "220",
+    "shade_name": "Natural Beige",
+    "hex_color": "#C9A07A",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      145,
+      175
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_05.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-230",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "230",
+    "shade_name": "Natural Buff",
+    "hex_color": "#C19870",
+    "undertone": [
+      "warm",
+      "neutral"
+    ],
+    "luminance_range": [
+      135,
+      160
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_06.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-310",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "310",
+    "shade_name": "Sun Beige",
+    "hex_color": "#B38B65",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      120,
+      145
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_07.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-330",
+    "brand": "Maybelline",
+    "line": "Fit Me Matte + Poreless",
+    "shade_code": "330",
+    "shade_name": "Toffee",
+    "hex_color": "#A07850",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      105,
+      130
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹350",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/8/9/89926040_08.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-matte-poreless-foundation/p/89926",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-dewy-115",
+    "brand": "Maybelline",
+    "line": "Fit Me Dewy + Smooth",
+    "shade_code": "115",
+    "shade_name": "Ivory",
+    "hex_color": "#EDCDB5",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      190,
+      215
+    ],
+    "finish": "dewy",
+    "coverage": "medium",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_fitme_dewy.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-dewy-smooth-foundation/p/89927",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-dewy-220",
+    "brand": "Maybelline",
+    "line": "Fit Me Dewy + Smooth",
+    "shade_code": "220",
+    "shade_name": "Natural Beige",
+    "hex_color": "#C9A07A",
+    "undertone": [
+      "warm",
+      "neutral"
+    ],
+    "luminance_range": [
+      145,
+      175
+    ],
+    "finish": "dewy",
+    "coverage": "medium",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_fitme_dewy.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-dewy-smooth-foundation/p/89927",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-fit-me-dewy-310",
+    "brand": "Maybelline",
+    "line": "Fit Me Dewy + Smooth",
+    "shade_code": "310",
+    "shade_name": "Sun Beige",
+    "hex_color": "#B38B65",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      120,
+      145
+    ],
+    "finish": "dewy",
+    "coverage": "medium",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_fitme_dewy.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-fit-me-dewy-smooth-foundation/p/89927",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-perfecting-marble",
+    "brand": "Lakme",
+    "line": "9to5 Primer + Matte Perfect Cover",
+    "shade_code": "W110",
+    "shade_name": "Warm Marble",
+    "hex_color": "#F0D0B8",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      195,
+      225
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹625",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_9to5_primer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9to5-primer-matte-perfect-cover-foundation/p/445676",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-perfecting-ivory",
+    "brand": "Lakme",
+    "line": "9to5 Primer + Matte Perfect Cover",
+    "shade_code": "N120",
+    "shade_name": "Neutral Ivory",
+    "hex_color": "#E5C0A0",
+    "undertone": [
+      "neutral",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      180,
+      210
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹625",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_9to5_primer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9to5-primer-matte-perfect-cover-foundation/p/445676",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-perfecting-warm-beige",
+    "brand": "Lakme",
+    "line": "9to5 Primer + Matte Perfect Cover",
+    "shade_code": "W240",
+    "shade_name": "Warm Beige",
+    "hex_color": "#CDA67E",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      150,
+      180
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹625",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_9to5_primer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9to5-primer-matte-perfect-cover-foundation/p/445676",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-perfecting-warm-sand",
+    "brand": "Lakme",
+    "line": "9to5 Primer + Matte Perfect Cover",
+    "shade_code": "W260",
+    "shade_name": "Warm Sand",
+    "hex_color": "#C19870",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      135,
+      165
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹625",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_9to5_primer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9to5-primer-matte-perfect-cover-foundation/p/445676",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-perfecting-warm-caramel",
+    "brand": "Lakme",
+    "line": "9to5 Primer + Matte Perfect Cover",
+    "shade_code": "W340",
+    "shade_name": "Warm Caramel",
+    "hex_color": "#A88060",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      110,
+      140
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹625",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_9to5_primer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9to5-primer-matte-perfect-cover-foundation/p/445676",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-mousse-ivory",
+    "brand": "Lakme",
+    "line": "9to5 Weightless Mousse",
+    "shade_code": "01",
+    "shade_name": "Ivory Cream",
+    "hex_color": "#F0D5BE",
+    "undertone": [
+      "warm",
+      "neutral"
+    ],
+    "luminance_range": [
+      195,
+      225
+    ],
+    "finish": "matte",
+    "coverage": "light",
+    "price": "₹575",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_mousse.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9-to-5-weightless-mousse-foundation/p/267489",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-mousse-beige",
+    "brand": "Lakme",
+    "line": "9to5 Weightless Mousse",
+    "shade_code": "02",
+    "shade_name": "Beige Vanilla",
+    "hex_color": "#DEB896",
+    "undertone": [
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      165,
+      195
+    ],
+    "finish": "matte",
+    "coverage": "light",
+    "price": "₹575",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_mousse.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9-to-5-weightless-mousse-foundation/p/267489",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-mousse-caramel",
+    "brand": "Lakme",
+    "line": "9to5 Weightless Mousse",
+    "shade_code": "04",
+    "shade_name": "Rose Honey",
+    "hex_color": "#C09570",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      130,
+      160
+    ],
+    "finish": "matte",
+    "coverage": "light",
+    "price": "₹575",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_mousse.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9-to-5-weightless-mousse-foundation/p/267489",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-true-match-w2",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Super Blendable",
+    "shade_code": "W2",
+    "shade_name": "Light Ivory",
+    "hex_color": "#F0D0B5",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      195,
+      225
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_true_match.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-true-match-super-blendable-foundation/p/27589",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-true-match-n3",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Super Blendable",
+    "shade_code": "N3",
+    "shade_name": "Natural Buff",
+    "hex_color": "#DEB896",
+    "undertone": [
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      165,
+      195
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_true_match.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-true-match-super-blendable-foundation/p/27589",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-true-match-w5",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Super Blendable",
+    "shade_code": "W5",
+    "shade_name": "Sand Beige",
+    "hex_color": "#C9A07A",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      145,
+      175
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_true_match.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-true-match-super-blendable-foundation/p/27589",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-true-match-c5",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Super Blendable",
+    "shade_code": "C5",
+    "shade_name": "Classic Beige",
+    "hex_color": "#C5A080",
+    "undertone": [
+      "cool",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      145,
+      175
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_true_match.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-true-match-super-blendable-foundation/p/27589",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-true-match-w7",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Super Blendable",
+    "shade_code": "W7",
+    "shade_name": "Caramel Beige",
+    "hex_color": "#B08860",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      115,
+      145
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_true_match.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-true-match-super-blendable-foundation/p/27589",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-infallible-freshwear-110",
+    "brand": "L'Oreal Paris",
+    "line": "Infallible 24H Fresh Wear",
+    "shade_code": "110",
+    "shade_name": "Ivory Buff",
+    "hex_color": "#F0D0B5",
+    "undertone": [
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      195,
+      225
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹999",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_infallible.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-infallible-24h-fresh-wear-foundation/p/876540",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-infallible-freshwear-220",
+    "brand": "L'Oreal Paris",
+    "line": "Infallible 24H Fresh Wear",
+    "shade_code": "220",
+    "shade_name": "Sand",
+    "hex_color": "#C9A07A",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      145,
+      175
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹999",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_infallible.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-infallible-24h-fresh-wear-foundation/p/876540",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-infallible-freshwear-300",
+    "brand": "L'Oreal Paris",
+    "line": "Infallible 24H Fresh Wear",
+    "shade_code": "300",
+    "shade_name": "Amber",
+    "hex_color": "#B08860",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      115,
+      145
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹999",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_infallible.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-infallible-24h-fresh-wear-foundation/p/876540",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-superstay-112",
+    "brand": "Maybelline",
+    "line": "SuperStay Full Coverage",
+    "shade_code": "112",
+    "shade_name": "Natural Ivory",
+    "hex_color": "#EDCDB5",
+    "undertone": [
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      190,
+      215
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹499",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_superstay.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-superstay-full-coverage-foundation/p/678453",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-superstay-220",
+    "brand": "Maybelline",
+    "line": "SuperStay Full Coverage",
+    "shade_code": "220",
+    "shade_name": "Natural Beige",
+    "hex_color": "#C9A07A",
+    "undertone": [
+      "warm",
+      "neutral"
+    ],
+    "luminance_range": [
+      145,
+      175
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹499",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_superstay.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-superstay-full-coverage-foundation/p/678453",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-superstay-310",
+    "brand": "Maybelline",
+    "line": "SuperStay Full Coverage",
+    "shade_code": "310",
+    "shade_name": "Sun Beige",
+    "hex_color": "#B38B65",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      120,
+      145
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹499",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_superstay.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-new-york-superstay-full-coverage-foundation/p/678453",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-absolute-w120",
+    "brand": "Lakme",
+    "line": "Absolute Skin Dew Serum Foundation",
+    "shade_code": "W120",
+    "shade_name": "Warm Cream",
+    "hex_color": "#E8C5A8",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      180,
+      210
+    ],
+    "finish": "dewy",
+    "coverage": "light",
+    "price": "₹699",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_absolute_serum.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-absolute-skin-dew-serum-foundation/p/956321",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-absolute-n200",
+    "brand": "Lakme",
+    "line": "Absolute Skin Dew Serum Foundation",
+    "shade_code": "N200",
+    "shade_name": "Neutral Beige",
+    "hex_color": "#D4AC88",
+    "undertone": [
+      "neutral",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      155,
+      185
+    ],
+    "finish": "dewy",
+    "coverage": "light",
+    "price": "₹699",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_absolute_serum.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-absolute-skin-dew-serum-foundation/p/956321",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-absolute-w300",
+    "brand": "Lakme",
+    "line": "Absolute Skin Dew Serum Foundation",
+    "shade_code": "W300",
+    "shade_name": "Warm Honey",
+    "hex_color": "#B89068",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      125,
+      155
+    ],
+    "finish": "dewy",
+    "coverage": "light",
+    "price": "₹699",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_absolute_serum.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-absolute-skin-dew-serum-foundation/p/956321",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-bb-cream",
+    "brand": "Maybelline",
+    "line": "Fit Me BB Cream",
+    "shade_code": "01",
+    "shade_name": "Light-Medium",
+    "hex_color": "#DEB896",
+    "undertone": [
+      "warm",
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      160,
+      200
+    ],
+    "finish": "dewy",
+    "coverage": "light",
+    "price": "₹299",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_bb.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-fit-me-bb-cream/p/845673",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-bb-cream-02",
+    "brand": "Maybelline",
+    "line": "Fit Me BB Cream",
+    "shade_code": "02",
+    "shade_name": "Medium",
+    "hex_color": "#C9A07A",
+    "undertone": [
+      "warm",
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      130,
+      170
+    ],
+    "finish": "dewy",
+    "coverage": "light",
+    "price": "₹299",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_bb.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-fit-me-bb-cream/p/845673",
+    "type": "foundation"
+  },
+  {
+    "id": "maybelline-bb-cream-03",
+    "brand": "Maybelline",
+    "line": "Fit Me BB Cream",
+    "shade_code": "03",
+    "shade_name": "Medium-Dark",
+    "hex_color": "#B08860",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      100,
+      140
+    ],
+    "finish": "dewy",
+    "coverage": "light",
+    "price": "₹299",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_bb.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-fit-me-bb-cream/p/845673",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-complexion-marble",
+    "brand": "Lakme",
+    "line": "Complexion Care CC Cream",
+    "shade_code": "01",
+    "shade_name": "Beige",
+    "hex_color": "#E5C0A0",
+    "undertone": [
+      "neutral",
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      170,
+      210
+    ],
+    "finish": "satin",
+    "coverage": "light",
+    "price": "₹259",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_cc.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-complexion-care-cc-cream/p/34567",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-complexion-bronze",
+    "brand": "Lakme",
+    "line": "Complexion Care CC Cream",
+    "shade_code": "02",
+    "shade_name": "Bronze",
+    "hex_color": "#B89068",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      120,
+      160
+    ],
+    "finish": "satin",
+    "coverage": "light",
+    "price": "₹259",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_cc.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-complexion-care-cc-cream/p/34567",
+    "type": "foundation"
+  },
+  {
+    "id": "loreal-true-match-c3",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Super Blendable",
+    "shade_code": "C3",
+    "shade_name": "Rose Beige",
+    "hex_color": "#DEB0A0",
+    "undertone": [
+      "cool",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      175,
+      200
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_true_match.jpg",
+    "buy_url": "https://www.nykaa.com/l-oreal-paris-true-match-super-blendable-foundation/p/27589",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-perfecting-cool-ivory",
+    "brand": "Lakme",
+    "line": "9to5 Primer + Matte Perfect Cover",
+    "shade_code": "C100",
+    "shade_name": "Cool Ivory",
+    "hex_color": "#E8C8B5",
+    "undertone": [
+      "cool",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      185,
+      215
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹625",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_9to5_primer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9to5-primer-matte-perfect-cover-foundation/p/445676",
+    "type": "foundation"
+  },
+  {
+    "id": "lakme-perfecting-cool-beige",
+    "brand": "Lakme",
+    "line": "9to5 Primer + Matte Perfect Cover",
+    "shade_code": "C240",
+    "shade_name": "Cool Beige",
+    "hex_color": "#C8A088",
+    "undertone": [
+      "cool",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      145,
+      175
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹625",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_9to5_primer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-9to5-primer-matte-perfect-cover-foundation/p/445676",
+    "type": "foundation"
+  },
+  {
+    "id": "mac-ruby-woo",
+    "brand": "MAC",
+    "line": "Retro Matte Lipstick",
+    "shade_code": "RW01",
+    "shade_name": "Ruby Woo",
+    "hex_color": "#C40233",
+    "undertone": [
+      "cool",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      80,
+      220
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹1750",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/mac_ruby_woo.jpg",
+    "buy_url": "https://www.nykaa.com/mac-retro-matte-lipstick/p/12345",
+    "type": "lipstick"
+  },
+  {
+    "id": "mac-velvet-teddy",
+    "brand": "MAC",
+    "line": "Matte Lipstick",
+    "shade_code": "VT01",
+    "shade_name": "Velvet Teddy",
+    "hex_color": "#B5654A",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      80,
+      220
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹1750",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/mac_velvet_teddy.jpg",
+    "buy_url": "https://www.nykaa.com/mac-matte-lipstick/p/12346",
+    "type": "lipstick"
+  },
+  {
+    "id": "maybelline-sensational-touch-of-spice",
+    "brand": "Maybelline",
+    "line": "Color Sensational Creamy Matte",
+    "shade_code": "CS660",
+    "shade_name": "Touch of Spice",
+    "hex_color": "#A85060",
+    "undertone": [
+      "neutral",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      80,
+      220
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_sensational.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-color-sensational-creamy-matte-lipstick/p/23456",
+    "type": "lipstick"
+  },
+  {
+    "id": "maybelline-superstay-ink-seductress",
+    "brand": "Maybelline",
+    "line": "SuperStay Matte Ink",
+    "shade_code": "SI80",
+    "shade_name": "Ruler",
+    "hex_color": "#8B2252",
+    "undertone": [
+      "cool",
+      "neutral"
+    ],
+    "luminance_range": [
+      80,
+      220
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹649",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_superstay_ink.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-superstay-matte-ink/p/34567",
+    "type": "lipstick"
+  },
+  {
+    "id": "lakme-forever-matte-red-carnival",
+    "brand": "Lakme",
+    "line": "Forever Matte Liquid Lip Color",
+    "shade_code": "FM22",
+    "shade_name": "Red Carnival",
+    "hex_color": "#D03040",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      80,
+      220
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹250",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_forever_matte.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-forever-matte-liquid-lip-color/p/45678",
+    "type": "lipstick"
+  },
+  {
+    "id": "lakme-face-stylist-pink",
+    "brand": "Lakme",
+    "line": "Face It Blush",
+    "shade_code": "BL01",
+    "shade_name": "Fresh Rose",
+    "hex_color": "#E8909B",
+    "undertone": [
+      "cool",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      80,
+      230
+    ],
+    "finish": "satin",
+    "coverage": "light",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_blush.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-face-it-blush/p/56789",
+    "type": "blush"
+  },
+  {
+    "id": "lakme-face-stylist-peach",
+    "brand": "Lakme",
+    "line": "Face It Blush",
+    "shade_code": "BL02",
+    "shade_name": "Warm Peach",
+    "hex_color": "#E8A088",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      80,
+      230
+    ],
+    "finish": "satin",
+    "coverage": "light",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_blush.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-face-it-blush/p/56790",
+    "type": "blush"
+  },
+  {
+    "id": "loreal-true-match-blush-rosewood",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Blush",
+    "shade_code": "TM105",
+    "shade_name": "Rose Wood",
+    "hex_color": "#C87080",
+    "undertone": [
+      "neutral",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      80,
+      230
+    ],
+    "finish": "satin",
+    "coverage": "light",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_blush.jpg",
+    "buy_url": "https://www.nykaa.com/loreal-true-match-blush/p/67890",
+    "type": "blush"
+  },
+  {
+    "id": "maybelline-fit-me-blush-wine",
+    "brand": "Maybelline",
+    "line": "Fit Me Blush",
+    "shade_code": "FB50",
+    "shade_name": "Wine",
+    "hex_color": "#B04060",
+    "undertone": [
+      "cool",
+      "neutral"
+    ],
+    "luminance_range": [
+      80,
+      230
+    ],
+    "finish": "matte",
+    "coverage": "medium",
+    "price": "₹349",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_blush.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-fit-me-blush/p/78901",
+    "type": "blush"
+  },
+  {
+    "id": "loreal-true-match-blush-apricot",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Blush",
+    "shade_code": "TM102",
+    "shade_name": "Apricot Kiss",
+    "hex_color": "#E89878",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      80,
+      230
+    ],
+    "finish": "satin",
+    "coverage": "light",
+    "price": "₹799",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_blush.jpg",
+    "buy_url": "https://www.nykaa.com/loreal-true-match-blush/p/67891",
+    "type": "blush"
+  },
+  {
+    "id": "maybelline-fit-me-concealer-15",
+    "brand": "Maybelline",
+    "line": "Fit Me Liquid Concealer",
+    "shade_code": "15",
+    "shade_name": "Fair",
+    "hex_color": "#F0D5BE",
+    "undertone": [
+      "warm",
+      "neutral"
+    ],
+    "luminance_range": [
+      195,
+      230
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_concealer.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-fit-me-concealer/p/89012",
+    "type": "concealer"
+  },
+  {
+    "id": "maybelline-fit-me-concealer-25",
+    "brand": "Maybelline",
+    "line": "Fit Me Liquid Concealer",
+    "shade_code": "25",
+    "shade_name": "Medium",
+    "hex_color": "#DEB896",
+    "undertone": [
+      "neutral",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      160,
+      195
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_concealer.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-fit-me-concealer/p/89013",
+    "type": "concealer"
+  },
+  {
+    "id": "maybelline-fit-me-concealer-35",
+    "brand": "Maybelline",
+    "line": "Fit Me Liquid Concealer",
+    "shade_code": "35",
+    "shade_name": "Deep",
+    "hex_color": "#B08860",
+    "undertone": [
+      "warm"
+    ],
+    "luminance_range": [
+      110,
+      160
+    ],
+    "finish": "satin",
+    "coverage": "medium",
+    "price": "₹399",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/m/a/maybelline_concealer.jpg",
+    "buy_url": "https://www.nykaa.com/maybelline-fit-me-concealer/p/89014",
+    "type": "concealer"
+  },
+  {
+    "id": "lakme-absolute-concealer-honey",
+    "brand": "Lakme",
+    "line": "Absolute White Intense Concealer Stick",
+    "shade_code": "AW03",
+    "shade_name": "Honey",
+    "hex_color": "#CDA67E",
+    "undertone": [
+      "warm",
+      "neutral-warm"
+    ],
+    "luminance_range": [
+      145,
+      185
+    ],
+    "finish": "matte",
+    "coverage": "full",
+    "price": "₹575",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/a/lakme_concealer.jpg",
+    "buy_url": "https://www.nykaa.com/lakme-absolute-concealer/p/90123",
+    "type": "concealer"
+  },
+  {
+    "id": "loreal-true-match-concealer-3n",
+    "brand": "L'Oreal Paris",
+    "line": "True Match Concealer",
+    "shade_code": "3N",
+    "shade_name": "Creamy Beige",
+    "hex_color": "#D4AC88",
+    "undertone": [
+      "neutral",
+      "neutral-cool"
+    ],
+    "luminance_range": [
+      155,
+      195
+    ],
+    "finish": "satin",
+    "coverage": "full",
+    "price": "₹699",
+    "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:cm-pad_resize,w-200/l/o/loreal_concealer.jpg",
+    "buy_url": "https://www.nykaa.com/loreal-true-match-concealer/p/01234",
+    "type": "concealer"
+  }
+]

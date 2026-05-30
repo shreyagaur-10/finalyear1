@@ -1,0 +1,12 @@
+{
+  "name": "ShadeSense AI",
+  "short_name": "ShadeSense",
+  "description": "AI-powered makeup shade recommendation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#FFB6C1",
+  "icons": [
+    { "src": "/shadesense-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

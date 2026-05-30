@@ -1,0 +1,226 @@
+{
+  "model_type": "RandomForest",
+  "accuracy": 0.8033333333333333,
+  "balanced_accuracy": 0.7371086261045693,
+  "macro_f1": 0.7324903134769357,
+  "cv_macro_f1": 0.6275338505753169,
+  "cv_std": 0.01799760829430353,
+  "model_comparison": {
+    "SVM": {
+      "accuracy": 0.5966666666666667,
+      "balanced_accuracy": 0.5236491984463587,
+      "macro_f1": 0.517302689214089,
+      "cv_macro_f1": 0.694520809509249,
+      "best_params": {
+        "C": 30,
+        "gamma": 0.1,
+        "kernel": "rbf"
+      }
+    },
+    "RandomForest": {
+      "accuracy": 0.8033333333333333,
+      "balanced_accuracy": 0.7371086261045693,
+      "macro_f1": 0.7324903134769357,
+      "cv_macro_f1": 0.6275338505753169,
+      "best_params": {
+        "max_depth": 18,
+        "min_samples_leaf": 1,
+        "n_estimators": 450
+      }
+    },
+    "ExtraTrees": {
+      "accuracy": 0.7933333333333333,
+      "balanced_accuracy": 0.717244013592898,
+      "macro_f1": 0.7120240889071382,
+      "cv_macro_f1": 0.6377915691763512,
+      "best_params": {
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "n_estimators": 500
+      }
+    }
+  },
+  "classes": [
+    "Deep",
+    "Light",
+    "Medium",
+    "Rich",
+    "Tan",
+    "Very_Light"
+  ],
+  "source_classes": [
+    "Black",
+    "Brown",
+    "White"
+  ],
+  "label_strategy": "ITA-derived shade depth from inference-matched face regions",
+  "feature_count": 39,
+  "feature_names": [
+    "mean_r",
+    "mean_g",
+    "mean_b",
+    "mean_h",
+    "mean_s",
+    "mean_v",
+    "mean_L",
+    "mean_a",
+    "mean_lab_b",
+    "ita",
+    "luminance",
+    "rb_ratio",
+    "rg_ratio",
+    "gb_ratio",
+    "std_l",
+    "std_a",
+    "std_lab_b",
+    "std_s",
+    "std_v",
+    "p10_L",
+    "median_L",
+    "p90_L",
+    "p25_v",
+    "p75_v",
+    "skin_pixel_ratio",
+    "L_hist_0",
+    "L_hist_1",
+    "L_hist_2",
+    "L_hist_3",
+    "L_hist_4",
+    "L_hist_5",
+    "L_hist_6",
+    "L_hist_7",
+    "S_hist_0",
+    "S_hist_1",
+    "S_hist_2",
+    "S_hist_3",
+    "S_hist_4",
+    "S_hist_5"
+  ],
+  "training_original_images": 1200,
+  "test_original_images": 300,
+  "training_feature_rows": 6693,
+  "test_feature_rows": 300,
+  "augmentation_profiles": [
+    "original",
+    "low_light",
+    "bright_selfie",
+    "warm_indoor",
+    "cool_daylight"
+  ],
+  "midtone_extra_augmentation_profiles": [
+    "midtone_soft_shadow",
+    "midtone_window_light",
+    "midtone_warm_store_light"
+  ],
+  "augmentation_counts": {
+    "original": 1200,
+    "low_light": 1200,
+    "bright_selfie": 1200,
+    "warm_indoor": 1200,
+    "cool_daylight": 1200,
+    "midtone_soft_shadow": 231,
+    "midtone_window_light": 231,
+    "midtone_warm_store_light": 231
+  },
+  "classification_report": {
+    "Deep": {
+      "precision": 0.8461538461538461,
+      "recall": 0.7586206896551724,
+      "f1-score": 0.8,
+      "support": 58.0
+    },
+    "Light": {
+      "precision": 0.6875,
+      "recall": 0.36666666666666664,
+      "f1-score": 0.4782608695652174,
+      "support": 30.0
+    },
+    "Medium": {
+      "precision": 0.5833333333333334,
+      "recall": 0.5833333333333334,
+      "f1-score": 0.5833333333333334,
+      "support": 24.0
+    },
+    "Rich": {
+      "precision": 0.85,
+      "recall": 0.9714285714285714,
+      "f1-score": 0.9066666666666666,
+      "support": 70.0
+    },
+    "Tan": {
+      "precision": 0.6363636363636364,
+      "recall": 0.8484848484848485,
+      "f1-score": 0.7272727272727273,
+      "support": 33.0
+    },
+    "Very_Light": {
+      "precision": 0.9047619047619048,
+      "recall": 0.8941176470588236,
+      "f1-score": 0.8994082840236687,
+      "support": 85.0
+    },
+    "accuracy": 0.8033333333333333,
+    "macro avg": {
+      "precision": 0.7513521201021202,
+      "recall": 0.7371086261045693,
+      "f1-score": 0.7324903134769357,
+      "support": 300.0
+    },
+    "weighted avg": {
+      "precision": 0.8036889499389499,
+      "recall": 0.8033333333333333,
+      "f1-score": 0.7955473229854501,
+      "support": 300.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      44,
+      0,
+      0,
+      9,
+      5,
+      0
+    ],
+    [
+      0,
+      11,
+      9,
+      1,
+      3,
+      6
+    ],
+    [
+      4,
+      0,
+      14,
+      1,
+      5,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      68,
+      0,
+      1
+    ],
+    [
+      3,
+      0,
+      0,
+      1,
+      28,
+      1
+    ],
+    [
+      0,
+      5,
+      1,
+      0,
+      3,
+      76
+    ]
+  ]
+}

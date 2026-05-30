@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>ShadeSense AI</title>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="56" x2="440" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F0"/>
+      <stop offset="0.52" stop-color="#FFD6DE"/>
+      <stop offset="1" stop-color="#D4AF37"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="172" y1="140" x2="344" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7B996"/>
+      <stop offset="1" stop-color="#8A553A"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="245" r="112" fill="url(#skin)"/>
+  <path d="M156 352c54 42 146 42 200 0" fill="none" stroke="#2D2D2D" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="215" cy="238" r="16" fill="#FFF8F0" opacity="0.72"/>
+  <circle cx="297" cy="238" r="16" fill="#FFF8F0" opacity="0.72"/>
+  <path d="M145 116h222" stroke="#2D2D2D" stroke-width="32" stroke-linecap="round"/>
+  <path d="M145 116h126" stroke="#D4AF37" stroke-width="32" stroke-linecap="round"/>
+</svg>

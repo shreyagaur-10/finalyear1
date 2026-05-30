@@ -1,0 +1,37 @@
+{
+  "original": {
+    "accuracy": 0.96,
+    "balanced_accuracy": 0.96,
+    "macro_f1": 0.9598651565028468,
+    "samples": 450,
+    "skipped": 0
+  },
+  "darker_selfie": {
+    "accuracy": 0.35555555555555557,
+    "balanced_accuracy": 0.35555555555555557,
+    "macro_f1": 0.30292363520878035,
+    "samples": 450,
+    "skipped": 0
+  },
+  "brighter_selfie": {
+    "accuracy": 0.3244444444444444,
+    "balanced_accuracy": 0.3244444444444445,
+    "macro_f1": 0.2884199024848498,
+    "samples": 450,
+    "skipped": 0
+  },
+  "warm_indoor": {
+    "accuracy": 0.7555555555555555,
+    "balanced_accuracy": 0.7555555555555555,
+    "macro_f1": 0.7469645495644595,
+    "samples": 450,
+    "skipped": 0
+  },
+  "cool_daylight": {
+    "accuracy": 0.7711111111111111,
+    "balanced_accuracy": 0.7711111111111112,
+    "macro_f1": 0.7681119642834378,
+    "samples": 450,
+    "skipped": 0
+  }
+}
